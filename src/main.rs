@@ -66,7 +66,7 @@ fn main() -> ! {
         // &mut rcc.apb2,
     );
 
-    // Have fun
+    // Have fun and read the README.md
 
     loop {
 
